@@ -4,7 +4,7 @@
 ●	A terminal or command prompt to execute the Python script.
 ●	Code editor such as VS Code (optional, for making edits or running the program interactively).
 
-How to Run the Program :
+# How to Run the Program :
 
 Running the Program in Terminal, Command Prompt, or VS Code
 
