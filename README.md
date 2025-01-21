@@ -1,7 +1,7 @@
 # Requirements :
 
-●	Python 3.x installed on your system. Check if Python is installed by running: python --version in command prompt.
-●	A terminal or command prompt to execute the Python script.
+●	Python 3.x installed on your system. Check if Python is installed by running: python --version in command prompt. 
+●	A terminal or command prompt to execute the Python script. 
 ●	Code editor such as VS Code (optional, for making edits or running the program interactively).
 
 # How to Run the Program :
