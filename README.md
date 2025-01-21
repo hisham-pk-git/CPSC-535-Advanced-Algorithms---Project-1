@@ -62,7 +62,7 @@
 
 ** ---------------------------------------------------------------- **
 
-* Joining databases *
+*Joining databases*
 
 1. Run the Program
 
@@ -101,9 +101,11 @@
 - *The tuples should be separated by spaces.*
 - *The program ensures that the keys are integers and that the numerical values and string values are of the expected types. If a key is not an integer or if a value is not of the correct type, the program will terminate with an appropriate error message.*
 
-  ** -------------------- **
+  **-------------------------------------------------------------------------**
 
-  1. Run the Program
+  *Shipping Two Items*
+
+1. Run the Program
 
 *If using the terminal or command prompt, type*
 
