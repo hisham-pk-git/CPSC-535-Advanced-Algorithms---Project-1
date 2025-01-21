@@ -62,7 +62,7 @@
 
 **----------------------------------------------------------------**
 
-*Joining databases*
+**Joining databases**
 
 1. Run the Program
 
@@ -103,7 +103,7 @@
 
   **-------------------------------------------------------------------------**
 
-  *Shipping Two Items*
+  **Shipping Two Items**
 
 1. Run the Program
 
