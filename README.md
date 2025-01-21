@@ -60,7 +60,9 @@
 
 *Largest possible land mass size after flipping one '1' to '0': 5*
 
-** --------------- **
+** ---------------------------------------------------------------- **
+
+* Joining databases *
 
 1. Run the Program
 
